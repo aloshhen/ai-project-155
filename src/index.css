@@ -6,4 +6,8 @@
   .news-section {
     @apply bg-gray-900 text-white;
   }
+
+  .latest-news {
+    @apply bg-gray-900 text-white;
+  }
 }
